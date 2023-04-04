@@ -1,0 +1,12 @@
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\bin\Debug\Employee Management System.exe.config
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\bin\Debug\Employee Management System.exe
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee_Management_Systwm.login.resources
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee_Management_Systwm.Registration.resources
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee_Management_Systwm.Properties.Resources.resources
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee Management System.exe
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\obj\Debug\Employee Management System.pdb
+E:\C# Exercise\Project\Employee Management Systwm\Employee Management Systwm\bin\Debug\Employee Management System.pdb
